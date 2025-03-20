@@ -1,5 +1,6 @@
 /*
 Ici,  on va voire les variables en Java
+Pas de stresse, c'est presque identique au autres langages
 -Pas de caractéres spéciaux, pas d'espace
 -Commence par une lettre ou underscore(_)
     UneVariableUnPeuLong (Camel case)

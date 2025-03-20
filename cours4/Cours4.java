@@ -19,8 +19,10 @@ Les notions d'incrémentation et de décrémentation marche aussi dans ce langag
  */
 public class Cours4 {
     public static void main(String[] args) {
-        System.out.println("Bienvenu au cours 4 ;)\n");
+        System.out.println("Bienvenu au cours 4 ;)");
         //Vous pouvez tester les opérateur d'en haut en adaptant le code selon vos testes.
+        boolean result = 14 < 32;
+        System.out.println(result); //ceci va retourner true
         //Passons au notion d'incrémentation
         int nb1 = 1;
         int nb2 = nb1++; //Equivaut à nb2 = nb1 esnuite nb1 = nb1 + 1.
